@@ -3,7 +3,7 @@ Laberinto del gato y el ratón
 import random
 import copy
 import sys
-import time
+import Time 
 
 # --- Constantes de Configuración del Juego ---
 BOARD_SIZE = 8
